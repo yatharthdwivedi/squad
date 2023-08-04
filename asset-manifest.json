@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yatharthdwivedi.github.io/squad/static/css/main.e34a1058.css",
+    "main.js": "/yatharthdwivedi.github.io/squad/static/js/main.532fed2f.js",
+    "index.html": "/yatharthdwivedi.github.io/squad/index.html",
+    "main.e34a1058.css.map": "/yatharthdwivedi.github.io/squad/static/css/main.e34a1058.css.map",
+    "main.532fed2f.js.map": "/yatharthdwivedi.github.io/squad/static/js/main.532fed2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e34a1058.css",
+    "static/js/main.532fed2f.js"
+  ]
+}
