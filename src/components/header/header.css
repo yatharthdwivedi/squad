@@ -1,0 +1,45 @@
+header {
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: darkcyan  ;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    transition: background-color 0.3s ease-in-out;
+    z-index: 100;
+    box-sizing: border-box;
+  max-width: 100%; 
+  overflow-x: hidden;
+  }
+  
+  header.nav-black {
+    background-color: black; 
+  }
+  
+  nav {
+    max-width: 600px;
+    width: 100%;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    font-size: 20px;
+  }
+  
